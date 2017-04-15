@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1d064491-974b-4915-81fa-4d6ab31525bf" name="excesiser" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\composer" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
