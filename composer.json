@@ -1,0 +1,11 @@
+{
+    "name": "abaity/composer",
+    "description": "composer execrcise",
+    "authors": [
+        {
+            "name": "abaity",
+            "email": "57099520@qq.com"
+        }
+    ],
+    "require": {}
+}
